@@ -25,6 +25,7 @@ API REST para gestion de tareas usando node.js, Express y MySQL
  - GET /tasks:id
  - POST /tasks:id
  - PUT /tasks/:id
+ - DELETE /tasks/:id
 
 # Autor
 Hector Jurado
