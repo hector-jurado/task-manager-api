@@ -1,6 +1,6 @@
 # Task Manager API
 
-API REST para gestion de tareas usando node.js y express y guardada en la base de datos usando mySQL
+API REST para gestion de tareas usando node.js, Express y MySQL
 
 ## Funcionalidades
 
@@ -13,7 +13,6 @@ API REST para gestion de tareas usando node.js y express y guardada en la base d
 
  - Node.js
  - Express
- - Javascript
  - MySQL
 
 ## Instalacion
